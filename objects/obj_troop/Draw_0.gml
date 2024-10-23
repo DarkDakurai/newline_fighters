@@ -1,0 +1,2 @@
+if !is_tower && new_tileangle != 0 && !obj_console_game_handler.action_happening draw_sprite_ext(sprite_index, image_index, x, y, 1, 1, image_angle + 60*new_tileangle, image_blend, 1);
+else draw_self();

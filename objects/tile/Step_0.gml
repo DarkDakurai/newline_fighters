@@ -1,0 +1,1 @@
+image_blend = (gold_tile? c1: (red_tile? c2: c3));

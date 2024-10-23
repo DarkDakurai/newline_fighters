@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"received_packet_client",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"received_packet_client",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

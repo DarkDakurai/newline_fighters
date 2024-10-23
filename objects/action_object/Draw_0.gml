@@ -1,0 +1,1 @@
+draw_text_color(x, y, string(action_order_id) + ". " + action_string, col, col, col, col, 1);

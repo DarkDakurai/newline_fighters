@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"end_match_steam",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"end_match_steam",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
